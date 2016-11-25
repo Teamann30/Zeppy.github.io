@@ -1,0 +1,12 @@
+body { 
+background-image : url("http://wallpapercave.com/wp/TvcT2UV.jpg");
+background-repeat : no-repeat;background-position : absolute;}
+h1 {color:white;font-size:350%;text-align:right;margin-right : 140px;}
+p {color:white;text-align:right}
+nav {text-align:right;margin-right:129px;word-spacing:15px}
+a {color:white; text-decoration:none;border:1px solid gray; background-color:gray}
+details,summary {color:white;text-align:right;}
+details,summary:active{color:red;}
+details,summary :link:{color:red;}
+details,summary:disabled{color:red;}
+a:hover{color:red}
